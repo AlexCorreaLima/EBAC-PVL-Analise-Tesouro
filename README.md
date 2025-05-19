@@ -32,9 +32,3 @@ Neste notebook, realizamos as seguintes explorações nos dados:
 3.  🌴 Descobrimos qual município da Bahia se destaca com o maior número de solicitações que foram deferidas ✅.
 4.  💾 Salvamos os dados das solicitações do estado da Bahia (apenas para o tipo 'Estado') em um arquivo CSV chamado `solicitacoes_bahia_estados.csv`.
 
-## ⏭️ Próximos Passos (Ideias para o futuro!)
-
-* 📈 Fazer mais análises nos dados, quem sabe explorar outras variáveis?
-* 📊 Criar uns gráficos bacanas para visualizar os resultados.
-* 🛡️ Adicionar um tratamento de erros no código pra deixá-lo mais robusto.
-* 💡 Explorar outros cantinhos interessantes da API do Tesouro Nacional.
