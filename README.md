@@ -6,7 +6,7 @@ Este é um projeto de análise exploratória dos dados de solicitações de Proj
 
 ## 📂 Conteúdo
 
-* `seu_notebook.ipynb` 💻: Notebook Jupyter com o código Python para acessar a API, realizar as análises e gerar o arquivo CSV.
+* `Profissão Cientista de Dados M4 - Tarefa aulas 06 a 08.ipynb` 💻: Notebook Jupyter com o código Python para acessar a API, realizar as análises e gerar o arquivo CSV.
 * `solicitacoes_bahia_estados.csv` 💾: Arquivo CSV contendo os dados das solicitações do estado da Bahia (interessado 'Estado'), resultado da nossa análise.
 * `README.md` 📝: Este arquivo que você está lendo agora, com a descrição do projeto e como utilizá-lo.
 
